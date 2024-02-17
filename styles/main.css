@@ -19,9 +19,8 @@ body {
 }
 
 #profile {
-    border-radius: 500px;
-    width: 30%;
-    aspect-ratio: 1/1;
+    border-radius: 50%;
+    width: 120px;
 }
 
 #main-container {
