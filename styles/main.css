@@ -21,6 +21,7 @@ body {
 #profile {
     border-radius: 500px;
     width: 30%;
+    aspect-ratio: 1/1;
 }
 
 #main-container {
