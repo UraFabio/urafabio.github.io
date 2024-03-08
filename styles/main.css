@@ -9,7 +9,7 @@
 body {
     width: calc(100vw - 50px);
     height: 100vh;
-    background-color: hsl(0, 0%, 8%) ;
+    background-color: hsl(0, 0%, 30%) ;
     color: white;
     padding: 0 25px ;
     display: flex;
