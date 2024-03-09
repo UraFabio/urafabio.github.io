@@ -29,6 +29,7 @@ body {
     display: flex;
     flex-direction: column;
     width: auto;   
+    min-width: 305px;
     height: max-content;
     padding: 10px 50px;
     align-items: center;
