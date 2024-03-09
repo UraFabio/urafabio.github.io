@@ -34,7 +34,7 @@ body {
     padding: 10px 50px;
     align-items: center;
     background: linear-gradient(225deg, #212121, #1c1c1c);
-    box-shadow:  -10px 10px 20px #0c0c0c, 10px -10px 20px #323232;
+    box-shadow:  -1px 1px 20px #0c0c0c, 1px -1px 20px #323232;
 }
 
 #main-container > * {
