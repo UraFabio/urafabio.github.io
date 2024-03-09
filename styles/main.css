@@ -112,3 +112,16 @@ button:active {
     transform: translateY(-4px) translateX(-2px);
     box-shadow: 2px 5px 0 0 hsl(75, 94%, 57%);
 }
+
+@media (max-width:450px) {
+
+    #profile{
+        width: 120px;
+    }
+
+    #main-container{
+        width: 200px;
+        padding: 10px 10px;
+    }
+    
+}
